@@ -30,5 +30,26 @@ Enlace del vídeo en drive
 | https://drive.google.com/file/d/1NpuZFObj4zwaGeQuSr_WQkPoU0qfmRWf/view?usp=sharing |proximidad arduino|
 | https://drive.google.com/file/d/1nprkfIxuLwwRSYgaBxZ1L5GZ2VnNIxgZ/view?usp=sharing |boton micropython|
 | https://drive.google.com/file/d/1RitjdNWkJD85OwZU7GwJajFbimS9IMQ9/view?usp=sharing |boton arduino|
-|--|--|
+
 ##Avance en el proyecto navideño 
+
+mejoras y ajustes
+|--|
+|Las mejoras que se le hicieron fue que gracias a un sensor de proximidad se pueden encender todos los componentes al mismo tiempo|
+|https://drive.google.com/file/d/1PbQoGs8W0houZHU7VDpBH4z9-OX7A4Fr/view?usp=sharing|
+|#Descripcion de avances logrados hasta el momento|
+|Se logro implementar en 2 placas los componenetes de LED´s, LCD, motor a pasos, servo, buzzer y sensores de proximidad|
+
+
+## Capturas de Evaluaciones de Curso de Python
+Capturas de pantalla de sus resultados de evaluaciones del curso de Python(en el drive se encuentran todas las imagenes)
+|--|
+|https://drive.google.com/drive/folders/1YN6pFIs3aMph0VeQOgNL0PFB39vmHkVM?usp=sharing|
+|--|
+
+
+## retroalimentación constructiva y respetuosa.
+Retroalimentación constructiva y respetuosa.
+|--|
+|Trabajar con Jesus es esatra agusto aveces tuvimos desacuerdos en cuanto al circuito o no cojeniamos en todo, pero es muy trabajor aunque algo procastinador, aunque yo igual nos complementamos bien porque uno puede estar armando y el otro investigando o codificando pero despues de rato podemos cambiar de puesto no no hay problema. El sabe trabajar en equipo, aunque no sabe trabajar en varias cosas a la vez|
+|--|
