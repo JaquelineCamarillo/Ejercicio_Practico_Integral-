@@ -14,8 +14,8 @@ Enlace del vídeo en drive
 |Detecta la distancia de un objeto; si esta muy cerca, el buzzer y el LEDRGB se activan en alerta, y la distancia se muestra en la OLED|
 
 ##Ejercicios en clase
-
-|Link de drive|Descripcion|
+|--|--|
+|Link de drive|Descripcion||
 |https://drive.google.com/file/d/1vYEugu82Ck17Bh1Hnpe23yu0RKLFx57H/view?usp=sharing|jostick micropython|
 |https://drive.google.com/file/d/1v6MI54MpSZ8HHpC39LkoBDRLL_JDDefb/view?usp=sharing|jostick arduino|
 |https://drive.google.com/file/d/1OVd7qKUJeVoBY8T5ek1rjs5geytirTYe/view?usp=sharing|motror a pasos mycropython|
